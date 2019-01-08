@@ -8,7 +8,7 @@
     <!--DataSource default 설정-->
     <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
     <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
-    <property name="url" value="jdbc:oracle:thin:@127.0.0.1:1521:orcl"/>
+    <property name="url" value="jdbc:oracle:thin:@gooddevmarket.shop:1522:orcl"/>
     <property name="username" value="fortest"/>
     <property name="password" value="qwe123testfor"/>
     </bean>
