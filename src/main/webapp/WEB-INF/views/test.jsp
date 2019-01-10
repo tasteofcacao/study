@@ -11,7 +11,7 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                게시판
+                게시판a
                 <small>목록페이지</small>
             </h1>
         </section>
