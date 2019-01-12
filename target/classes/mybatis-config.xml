@@ -6,6 +6,7 @@
 
     <typeAliases>
         <typeAlias type="com.spring.test.domain.TestVO" alias="TestVO"/>
+        <typeAlias type="com.spring.dev_nsj.article.domain.ArticleVO" alias="ArticleVO"/>
     </typeAliases>
 
 </configuration>
